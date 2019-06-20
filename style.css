@@ -1,0 +1,97 @@
+
+body {
+  border-top: 10px inset #FDC7FF;
+ border-right: 10px dashed #FDC7FF;
+ border-bottom: 10px dashed #FDC7FF;
+ border-left: 10px dashed #FDC7FF;
+ font-family: Indie;
+font-size: 22px;
+ background-image: url(https://previews.123rf.com/images/neyro2008/neyro20081610/neyro2008161000029/64037378-flying-vector-de-monstruos-de-dibujos-animados-para-la-fiesta-de-los-ni%C3%B1os-monstruos-voladores-con-ala-.jpg);
+}
+
+.secreto {
+  background-color: #C7FDFF;
+  align: center;
+  text-align: center;
+}
+
+h1 {
+font-size: 250%
+font-family: Indie;
+color: blue;
+text-align: center;
+position: relative;
+}
+
+h2 {
+  font-family: monospace;
+  color: blank;
+  text-align: center;
+}
+section {
+  background-color: #FFFFFF;
+  text-align: center;
+}
+
+nav {
+  /*outline: 1px solid yellow;*/
+}
+
+ul {
+  /*outline: 1px solid blue;*/
+  background: #9AFF97;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  line-height: 60px;
+  overflow: auto;
+  text-align: center;
+}
+
+
+li {
+  /*outline: 1px solid red;*/
+  width: 100px;
+  display: inline-block;
+  float: left;
+}
+
+a {
+  /*outline: 1px solid green;*/
+  text-decoration: none;
+  display: block;
+  color: #FF0000;
+}
+
+a:hover {
+  background: #FFEF79;
+  color: #000;
+}
+
+/*.lu {
+text-align: center;
+color: pink;
+margin: 2px;
+font-size: small;
+float: left;*/
+
+/*.imagen-lu {
+width: 50px;
+height: 50px;
+}*/
+
+/*.zin {
+  text-align: center;
+  color: pink;
+  margin: 2px;
+  font-size: small;
+  float: right;
+}
+
+.yon {
+  text-align: center;
+  color: pink;
+  margin: 2px;
+  font-size: small;
+  float: inherit;
+}*/
