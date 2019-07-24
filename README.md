@@ -185,8 +185,10 @@ Ella busca poder reducir sus gastos así como estar consciente de donde ocupa su
 
 Su preocupación son los gastos hormigas, la falta de conocimiento financiero para poder llegar a sus metas cada mes y poder generar un fondo de emergencia .
 
+# Sus aspiraciones son :
+Mejorar su Calidad de Vida.
 
- ![](scontent.fmex1-1.fna.fbcdn.net/v/t1.0-9/65813690_1236924753148596_3437399581258678272_n.jpg)
+ ![](https://fotos.subefotos.com/4aced0c4b3e8e7fe50e7d428b5a740bbo.jpg)
 
 
 
